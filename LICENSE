@@ -1,0 +1,23 @@
+EasyList Cookie List — adapted filter dataset
+License: Creative Commons Attribution-ShareAlike 3.0 Unported
+https://creativecommons.org/licenses/by-sa/3.0/legalcode.en
+
+Original work: EasyList Cookie List
+Authors: The EasyList authors (https://easylist.to/)
+Source: https://github.com/easylist/easylist
+Licensing information: https://easylist.to/pages/licence.html
+
+Adaptation by the Stopper project:
+Selected compatible EasyList Cookie cosmetic filters are transformed from
+Adblock Plus syntax into declarative Safari Content Blocker CSS rules.
+Compatible domain exceptions are preserved; unsupported, procedural and
+non-cosmetic rules are omitted. A published release manifest identifies
+the exact source revision and SHA-256 checksums.
+
+The adapted filter dataset is made available under CC BY-SA 3.0.
+Recipients may share and adapt these data under the license conditions,
+including attribution and ShareAlike, without additional restrictions.
+This license applies to the adapted filter data, not to the privately
+maintained Stopper application's source code.
+
+No endorsement by the EasyList authors is implied.
