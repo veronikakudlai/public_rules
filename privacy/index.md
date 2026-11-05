@@ -10,7 +10,8 @@ lang: ru
 [English](en/)
 
 **Дата вступления в силу:** 5 ноября 2026 года  
-**Контакт для обращений по вопросам конфиденциальности:** STOPPER_PRIVACY_CONTACT_EMAIL
+**Контакт по вопросам конфиденциальности:** [privacy_policy.ios@proton.me](mailto:privacy_policy.ios@proton.me)  
+**Поддержка приложения:** [GitHub Issues](https://github.com/veronikakudlai/stopper-public/issues)
 
 ### 1. Общие положения
 
@@ -81,4 +82,5 @@ Stopper стремится ограничивать обработку свед�
 
 По вопросам, связанным с настоящей Политикой, использованием данных и запросами в отношении конфиденциальности, можно обратиться к разработчику Stopper:
 
-**Контакт:** STOPPER_PRIVACY_CONTACT_EMAIL
+**Конфиденциальные обращения:** [privacy_policy.ios@proton.me](mailto:privacy_policy.ios@proton.me)  
+**Техническая поддержка:** [GitHub Issues](https://github.com/veronikakudlai/stopper-public/issues). Обращения в Issues общедоступны — не публикуйте там персональные данные, адреса посещённых сайтов или сведения о своих cookie.
