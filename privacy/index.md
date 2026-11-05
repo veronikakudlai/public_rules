@@ -7,7 +7,7 @@ lang: ru
 
 # Политика конфиденциальности Stopper
 
-[English](en/)
+[English](https://github.com/veronikakudlai/stopper-public/blob/main/privacy/en/index.md)
 
 **Дата вступления в силу:** 5 ноября 2026 года  
 **Контакт по вопросам конфиденциальности:** [privacy_policy.ios@proton.me](mailto:privacy_policy.ios@proton.me)  

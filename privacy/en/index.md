@@ -7,7 +7,7 @@ lang: en
 
 # Stopper Privacy Policy
 
-[Русский](../)
+[Русский](https://github.com/veronikakudlai/stopper-public/blob/main/privacy/index.md)
 
 **Effective date:** 5 November 2026  
 **Privacy contact:** [privacy_policy.ios@proton.me](mailto:privacy_policy.ios@proton.me)  

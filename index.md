@@ -10,7 +10,7 @@ permalink: /
 
 ## Privacy policy
 
-[Русский](privacy/) · [English](privacy/en/)
+[Русский](https://veronikakudlai.github.io/stopper-public/privacy/) · [English](https://veronikakudlai.github.io/stopper-public/privacy/en/)
 
 ## Contact
 
@@ -19,4 +19,4 @@ permalink: /
 
 Issues are public. Please do not include personally identifying information, websites you visited or cookie contents.
 
-[EasyList filter dataset license](LICENSE)
+[EasyList filter dataset license](https://github.com/veronikakudlai/stopper-public/blob/main/LICENSE)
