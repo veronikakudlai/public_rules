@@ -4,8 +4,8 @@ Public resources for the independent **Stopper** Safari content-blocking app.
 
 ## Privacy policy
 
-- [Политика конфиденциальности — Русский](privacy/)
-- [Privacy Policy — English](privacy/en/)
+- [Политика конфиденциальности — Русский](https://github.com/veronikakudlai/stopper-public/blob/main/privacy/index.md) · [Web page](https://veronikakudlai.github.io/stopper-public/privacy/)
+- [Privacy Policy — English](https://github.com/veronikakudlai/stopper-public/blob/main/privacy/en/index.md) · [Web page](https://veronikakudlai.github.io/stopper-public/privacy/en/)
 
 ## Support and privacy contact
 
@@ -16,7 +16,7 @@ Issues are public. Do not disclose browsing history, webpage content, cookie val
 
 ## Signed filter dataset
 
-This repository separately distributes an **adapted EasyList Cookie** declarative Safari filter dataset. The licensing and attribution conditions are specified in [LICENSE](LICENSE), including CC BY-SA 3.0 and attribution to the EasyList authors.
+This repository separately distributes an **adapted EasyList Cookie** declarative Safari filter dataset. The licensing and attribution conditions are specified in [LICENSE](https://github.com/veronikakudlai/stopper-public/blob/main/LICENSE), including CC BY-SA 3.0 and attribution to the EasyList authors.
 
 The `stable.json` manifest and detached `stable.sig` are signed release metadata. Immutable release snapshots and optional deltas are located under `releases/`. Only rule datasets — not executable source code or private signing material — are distributed here. Privacy documents are independent of the signed rule manifest.
 
