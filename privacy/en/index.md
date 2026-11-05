@@ -10,7 +10,8 @@ lang: en
 [Русский](../)
 
 **Effective date:** 5 November 2026  
-**Privacy contact:** STOPPER_PRIVACY_CONTACT_EMAIL
+**Privacy contact:** [privacy_policy.ios@proton.me](mailto:privacy_policy.ios@proton.me)  
+**App support:** [GitHub Issues](https://github.com/veronikakudlai/stopper-public/issues)
 
 ### 1. Introduction
 
@@ -81,4 +82,5 @@ We may update this Policy if Stopper's features, information practices or applic
 
 For questions about this Policy, data handling or privacy-related requests, contact the Stopper developer:
 
-**Contact:** STOPPER_PRIVACY_CONTACT_EMAIL
+**Private inquiries:** [privacy_policy.ios@proton.me](mailto:privacy_policy.ios@proton.me)  
+**Technical support:** [GitHub Issues](https://github.com/veronikakudlai/stopper-public/issues). Issues are public; do not post personal information, your browsing history, or cookie details there.
